@@ -52,17 +52,34 @@ La reina kitchen Bar:
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Alexander es un estudiante de Erasmus con 20 años, que vino a Granada a principios de año para continuar con sus estudios del grado Universitario de Traducción. Es un chico extrovertido que le encanta hacer amigos y disfrutar su estancia en España con ellos, al mismo tiempo que practica el idioma. Usa constantemente las redes sociales para compartir y pedir opiniones en su día a día.
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![](https://github.com/SrOverlord/DIU/blob/master/P1/Persona1_Alexander.png)
+
+Laura por otra parte es una chica de 30 años no tan extrovertida como Alexander, con un círculo de amigos reducido que acaba de terminar un Máster de Cocina y busca inspiración para la apertura de su propio restaurante. 
+
+![](https://github.com/SrOverlord/DIU/blob/master/P1/Persona2_Laura.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Alexander está buscando quedar con sus amigos en un sitio nuevo que no haya visitado antes, con buen ambiente y divertido para pasar la noche, pero se enfrenta al concepto de Hostel, del cual desconfiaba en un principio. Alexander cambiaría de parecer al informarse más y le gustaría la idea de tener un evento en vivo durante la comida.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![](https://github.com/SrOverlord/DIU/blob/master/P1/JourneyMap_Alexander.png)
+
+Laura quiere ir a cenar a un restaurante para seguir buscando inspiración. Sin embargo, como no  sabe donde ir, decide preguntar en las redes sociales a lo que un amigo le comenta el Hostel Lemon Rock y después de echarle un vistazo e interesarse por la carta decide reservar para probar la experiencia.
+
+![](https://github.com/SrOverlord/DIU/blob/master/P1/JourneyMap_Laura.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+
+En este análisis, hemos concluido el test con una puntuación de **83 sobre 100**. 
+
+Podemos concluir que es una página bastante completa y competente actualmente. Nos ofrece una visión de los conceptos del servicio de manera simple y plena, pero también tiene sus puntos a mejorar. Por ejemplo, algunas que hemos conseguido observar son sobre todo aspectos de visualización y rendimiento. En el caso de la visualización con el uso de vídeos como background, produce que en ocasiones el header no se diferencie con claridad del fondo.Además, por este mismo hecho de que se utiliza este formato de fondo, la navegación entre las distintas páginas puede resultar pesada por los tiempos de espera que presenta. También podemos incluir el factor de la no comprobación de las entidades que se envían a través de los formularios (correo electrónico, nombre etc).  Existen otros aspectos que no se han podido tener en cuenta, como por ejemplo la barra de búsqueda, que al no presentar una, no podemos concluir si realiza su función correctamente, por lo que se ha evaluado como N/A.
+
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
