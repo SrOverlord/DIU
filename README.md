@@ -37,7 +37,7 @@ Miembros
 >>>
 >>> Por lo tanto, si bien queríamos comparar con los diferentes hostels de la zona, también veíamos conveniente comparar el Lemon Rock como un restaurante más, de esa manera nuestro análisis atenderá a especificaciones de restauración y hostels.
 
-![]
+![](https://github.com/SrOverlord/DIU/blob/master/P1/Analisisi%20de%20Competidores.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
