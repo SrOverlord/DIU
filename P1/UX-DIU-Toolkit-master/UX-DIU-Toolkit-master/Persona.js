@@ -33,36 +33,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Name: "Alexander Wells",
+				Photo: "Alexander.jpg",
+				Quote: "La vida esta para vivirla",
+				Age: 20,
+				Occupation: "Estudiante de Erasmus",
+				Family: "Soltero",
+				Location: "Granada, C/Camino de ronda, 100",
+				Character: "Le gusta experimnetar",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Aprender mas español", "Hacer cuantos mas amigos mejor ", "Disfrutar su dia a dia"],
+				Frustrations: ["Le gustaria poder ver a su familia mas seguido ", "No sabe cocinar, no le importaria aprender "],
+				Bio: "Es de Alemania, vino a Granada por una beca erasmus para seguir estudiando su Carrera de Traduccion. Como buen amante de la lengua española le gusta relacionarse con el idioma para poder aprender mas de él, por eso, siempre que puede busca ambientes en los que pueda relacionarse y disfrutar de su estancia en España ",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
+					{ Name: "TIC/Internet", Value:3 },
+					{ Name: "Movil", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Quiere planificar su proxima quedada con amigos en un sitio nuevo",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
-					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Publicidad Tradicional", Value: 2 },
+					{ Name: "Online & Social Media", Value: 5 },
+					{ Name: "Recomendaciones & sugerencias", Value: 4 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4.5 }
 				]
 			},
 			{	
@@ -74,36 +74,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Laura Martínez ",
+				Photo: "Laura.jpg",
+				Quote: "Tripa vacía, sin alegría",
+				Age: 31,
+				Occupation: "Terminado máster de cocina",
+				Family: "Con pareja",
+				Location: "Avenida Andalucía, 15",
+				Character: "Pasión por la cocina",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Abrir su propio restuaurante", "Probar nuevos sabores", "Buscar inspiración"],
+				Frustrations: ["No sabe que ambiente inspirar en su restaurante", "No sabe como innovar"],
+				Bio: "Ha vivido en Granada durante toda su vida y terminó hace un año su máster de cocina. Actualmente viaja por toda españa visitando los restaurantes más innovadores con su pareja para conseguir inspiración. Le encanta probar nuevos platos y adora a los animales.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "RRSS", Value: 3.5 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Busca inspiración para sus platos y la temática del restaurante." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
+					{ Name: "Online & Social Media", Value: 4 },
+					{ Name: "Recomendaciones & sugerencias", Value: 5 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 3 }
 				]
 			}
 		];
