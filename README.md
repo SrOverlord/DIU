@@ -37,6 +37,18 @@ Miembros
 >>>
 >>> Por lo tanto, si bien queríamos comparar con los diferentes hostels de la zona, también veíamos conveniente comparar el Lemon Rock como un restaurante más, de esa manera nuestro análisis atenderá a especificaciones de restauración y hostels.
 >>> 
+>>> En este caso hemos comparado el Lemon Rock con:
+>>> Hostel Oasis Backpackers:
+>>> + C/Placeta Correo Viejo, 3 , 18010 Granada
+>>>  + https://oasisgranada.com/es/
+>>>  
+Hostel Oasis Backpackers:
++ C/Placeta Correo Viejo, 3 , 18010 Granada
+ + https://oasisgranada.com/es/
+La reina kitchen Bar:
+Pl. Isabel la Católica, 7, 18009 Granada
+https://lareinakitchenbar.com/
+
 
 
 
