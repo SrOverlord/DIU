@@ -31,8 +31,13 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
+ 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> 
+>>> Para realizar el análisis competitivo de nuestro Hostel, Lemon Rock, era necesario tener en cuenta que desde inicios de la pandemia este hostel había dejado de proporcionar el servicio de alojamiento.
+>>> Por lo tanto, si bien queríamos comparar con los diferentes hostels de la zona, también veíamos conveniente comparar el Lemon Rock como un restaurante más, de esa manera nuestro análisis atenderá a especificaciones de restauración y hostels.
+
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
