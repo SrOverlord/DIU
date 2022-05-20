@@ -141,6 +141,17 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/MoodBoard.png)
+
+Información de nuestro MoodBoard.
+
+### Logo
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Logos%20e%20Imagenes/Logo2.png?raw=true)
+
+Nuestro Logo incorpora elementos basados en el propio nombre( Lemon Rock) para su formación.
+Hemos incorporado dos Imágenes de diferentes Limones:
+#### Limon1 ____ Limon2
+![]((https://github.com/SrOverlord/DIU_PF/blob/master/P3/Logos%20e%20Imagenes/Limon1.png?raw=true) ![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Logos%20e%20Imagenes/Limon2.png)
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
