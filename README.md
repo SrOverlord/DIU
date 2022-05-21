@@ -263,8 +263,19 @@ Para mostrar los resultados en esta aplicación teniamos que realizar un video m
 
 https://github.com/SrOverlord/DIU_PF/blob/master/P3/Video-MockUp-PF.mp4
 
+Las screen de nuestro diseño son las siguientes:
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%2010.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%202.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%203.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%204.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%205.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%209.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%206.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%207.png)
+![](https://github.com/SrOverlord/DIU_PF/blob/master/P3/Imagenes/Google%20Pixel%206%20Pro%20%E2%80%93%208.png)
+
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
