@@ -261,7 +261,7 @@ Para mostrar los resultados en esta aplicación teniamos que realizar un video m
 
 > Video MockUp
 
-https://github.com/SrOverlord/DIU_PF/blob/master/P3/Video-MockUp-PF.mp4
+https://github.com/SrOverlord/DIU_PF/blob/master/P3/MockUp%20Actualizado.mp4
 
 Las screen de nuestro diseño son las siguientes:
 
